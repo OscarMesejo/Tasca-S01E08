@@ -11,8 +11,6 @@ Final class NumbercheckerTest extends TestCase{
     public function IsEven(): void{
         $numberChecker = new NumberChecker(8);
         $this -> assertSame($numberChecker -> isEven(8));
-
-
     }
 }
 
