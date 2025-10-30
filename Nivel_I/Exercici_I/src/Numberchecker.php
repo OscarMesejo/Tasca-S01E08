@@ -1,5 +1,7 @@
 <?php
 
+namespace Dell\Exercici_I;
+
 class NumberChecker  {
 
 

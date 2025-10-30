@@ -1,5 +1,7 @@
 <?php
 
+namespace Dell\Exercici_2;
+
 class SensorVelocidad{
     public function __construct(private float $velocidad){}
 
@@ -21,7 +23,5 @@ class SensorVelocidad{
 
     
 }
-
-
 
 ?>

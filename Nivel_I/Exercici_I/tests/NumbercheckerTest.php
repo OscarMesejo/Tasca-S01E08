@@ -1,5 +1,9 @@
 <?php declare(strict_types=1);
 
+namespace Dell\Exercici_I\Tests;
+
+use Dell\Exercici_I\NumberChecker;
+
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\Attributes\TestDox;
 use PHPUnit\Framework\TestCase;
